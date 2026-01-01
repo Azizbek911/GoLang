@@ -22,7 +22,7 @@ const hello = () => {
 export hello;
 ```
 i showed all my codes in one go gile, this file is **main.go**.
-
+# Values
 The second code i learnt is **Values**, the code:
 ```
 package values
@@ -42,6 +42,8 @@ func Values () {
 }
 ```
 I know *JavaScript* and *PYTHON*, that helps me to understand them. Because i used these values in *JavaScript* and *PYTHON* too many times.
+
+# Variables
 
 The third code i learnt is how to make **variables**, Making variables is important!
 ```
@@ -74,6 +76,7 @@ const name = "Azizbek";
 let last_name = "Jumaboyev";
 var age = 19;
 ```
+# Constants variables
 
 4th code is constants variables:
 ```
@@ -100,7 +103,7 @@ func Constant() {
 }
 ```
 **You can't not change that kind of variables**
-
+# For and Loop
 5th is *for* and *loop*:
 ```
 package for_test
