@@ -138,3 +138,5 @@ func For () {
 ```
 
 I'm still learning, one day i will make big project with **Golang** or just simple **Telegram bot** then i will uplaod the code to the **GitHub**
+
+![alt Loading. . .](https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg)
