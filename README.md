@@ -24,7 +24,7 @@ export hello;
 i showed all my codes in one go gile, this file is **main.go**.
 # Values
 The second code i learnt is **Values**, the code:
-```
+```Golang
 package values
 
 
@@ -46,7 +46,7 @@ I know *JavaScript* and *PYTHON*, that helps me to understand them. Because i us
 # Variables
 
 The third code i learnt is how to make **variables**, Making variables is important!
-```
+```Golang
 package variables
 
 import "fmt"
@@ -71,7 +71,7 @@ func Variables() {
 }
 ```
 It is same as **JavaScript**, I usally use for making variables these commands:
-```
+```Golang
 const name = "Azizbek";
 let last_name = "Jumaboyev";
 var age = 19;
@@ -79,7 +79,7 @@ var age = 19;
 # Constants variables
 
 4th code is constants variables:
-```
+```Golang
 package constants
 
 import (
@@ -105,7 +105,7 @@ func Constant() {
 **You can't not change that kind of variables**
 # For and Loop
 5th is *for* and *loop*:
-```
+```Golang
 package for_test
 
 import "fmt"
