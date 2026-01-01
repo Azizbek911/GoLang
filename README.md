@@ -3,12 +3,12 @@ I have started learning Go programming languages, these are what i learnt
 
 # Hello World
 
-`package greetings
+`package greetings`
 
-import "fmt"
+`import "fmt"`
 
 
-func Hello() {
+`func Hello() {
 	fmt.Println("Hello world!")
 }`
 
@@ -16,7 +16,7 @@ First i imported fmt library and as you can see i show **Hello World**. The firs
 `
 const hello = () => {
   console.log("Hello world");
-};
+};`
 
-export hello;
+`export hello;
 `
